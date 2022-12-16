@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Markup Languages Exam</title>
+ <updated>2022-06-21T06:08:53Z</updated>
+ ...
+ <entry>
+ <author>
+ <name>Diana Ramos Torrado</name>
+ </author>
+ <title>...</title>
+ ...
+ <updated>2022-06-21T06:08:53Z</updated>
+ <published>2022-06-21T06:07:57Z</published>
+ <category../>
+ <summary>...</summary>
+ </entry>
+ <entry>
+ ...
+ </entry>
+ ...
+</feed>

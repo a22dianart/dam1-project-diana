@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Madurai:wght@500&display=swap');
+
+body{height: 100%;
+    background-color: white;
+    }
+h1, footer{background-color: black;
+    display: flex;
+  align-items: center;
+
+}
+h1{font-family: 'Hind Madurai', 'Courier New';
+margin-bottom: 0.5em;
+height: 8em;
+border-color: dodgerblue;
+}
+a{color: dodgerblue;
+text-decoration: none;
+}
+a:hover{color: white;}
+.card1{color: #f69e30;}
+.card2{color: #9777AB;}
+.card3{color: #5153ff;}
+article{width: 350px;
+    height: 400px;}
+footer{
+    justify-content: space-around;
+    
+}
+.card1, .card2, .card3{height: 100px; width:100px;}
+
