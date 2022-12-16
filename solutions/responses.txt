@@ -1,0 +1,4 @@
+7)The document mail.json has a size of 555 bytes, while the document mail.xml has a size of 1053 bytes.
+That is x1,9 more than in json file (190%). That means json is more lightweight. 
+
+11) The correct answer is number 3, because to make a attribute belong to a certain namespace we need to indicate it with the name of the attribute.

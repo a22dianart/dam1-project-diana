@@ -1,0 +1,34 @@
+{
+	"title": "You've Got Mail",
+	"year": 1998,
+	"director": {
+		"name":"Nora Ephron",
+		"nacionality": "USA"
+	},
+	"cast": [
+		{
+			"name": "Tom Hanks",
+			"character": "Joe Fox"
+		},
+		{
+			"name": "Meg Ryan",
+			"character": "Kathleen Kelly"
+		},
+		{
+			"name": "Parker Posey",
+			"character": "Patricia Eden"
+		},
+		{
+			"name": "Greg Kinnear",
+			"character": "Frank Navasky"
+		},
+		{
+			"name": "Jean Stapleton",
+			"character": "Birdie Conrad"
+		},
+		{
+			"name": "Steve Zahn",
+			"character": "George Pappas"
+		}
+	]
+}

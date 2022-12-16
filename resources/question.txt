@@ -1,0 +1,20 @@
+For the XML document data.xml, select which of the following correctly describes the namespace to which the type attribute of the name element belongs.
+
+[data.xml]
+    ----------------------------
+    <?xml version="1.0"?>
+    <product xmlns="urn:trial:examA">
+        <information>
+            <name type="Oil" 
+            xmlns:depth="urn:trial:examB">
+            HP M01-F1040ns AMD Ryzen 5
+            </name>
+            <color>Black</color>
+            <price>420 €</price>
+        </information>
+    </product>
+                
+ 1. urn:trial:examA
+ 2. Both urn:trial:examA and urn:trial:examB
+ 3. No namespace to which the type attribute belongs
+ 4. urn:trial:examB
